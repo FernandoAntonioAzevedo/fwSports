@@ -137,16 +137,17 @@
 }
 
 .nav-bar .navbar-light .navbar-brand img {
-    max-height: 50px;
+    max-height: 85px;
 }
 
 .navbar .navbar-nav .nav-item .nav-link {
     padding: 0;
+    
 }
 
 .navbar .navbar-nav .nav-item {
     display: flex;
-    align-items: center;
+    align-items: center;    
     padding: 15px;
 }
 
