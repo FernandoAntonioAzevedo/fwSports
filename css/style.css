@@ -799,6 +799,14 @@
 
 
 /*** Footer Start ***/
+
+.logo-footer {
+    max-height: 55px;
+    margin-top: 20px;
+    
+}
+
+
 .footer {
     background: var(--bs-dark);
 }
@@ -806,6 +814,7 @@
 .footer .footer-item {
     display: flex;
     flex-direction: column;
+    margin-top: 10px;
 }
 
 .footer .footer-item a {
@@ -886,6 +895,11 @@
 .copyright {
     background: var(--bs-dark);
     border-top: 1px solid rgba(255, 255, 255, .08);
+}
+
+#footer-copy {
+    text-decoration: none;
+    list-style: none;
 }
 /*** copyright end ***/
 
